@@ -1,0 +1,96 @@
+Data mining, the extraction of hidden predictive information from 
+large databases, is a powerful new technology with great potential 
+to help companies focus on the most important information in their 
+data warehouses. Data mining tools predict future trends and 
+behaviors, allowing businesses to make proactive, knowledge-driven 
+decisions. The automated, prospective analyses offered by data 
+mining move beyond the analyses of past events provided by 
+retrospective tools typical of decision support systems. Data 
+mining tools can answer business questions that traditionally were 
+too time consuming to resolve. They scour databases for hidden 
+patterns, finding predictive information that experts may miss 
+because it lies outside their expectations. Most companies already 
+collect and refine massive quantities of data. Data mining 
+techniques can be implemented rapidly on existing software and 
+hardware platforms to enhance the value of existing information 
+resources, and can be integrated with new products and systems as 
+they are brought on-line. When implemented on high performance 
+client/server or parallel processing computers, data mining tools 
+can analyze massive databases to deliver answers to questions such 
+as, "Which clients are most likely to respond to my next 
+promotional mailing, and why?" This white paper provides an 
+introduction to the basic technologies of data mining. Examples 
+of profitable applications illustrate its relevance to today’s 
+business environment as well as a basic description of how data 
+warehouse architectures can evolve to deliver the value of data 
+mining to end users. Data mining techniques are the result of a 
+long process of research and product development. This evolution 
+began when business data was first stored on computers, continued 
+with improvements in data access, and more recently, generated 
+technologies that allow users to navigate through their data in 
+real time. Data mining takes this evolutionary process beyond 
+retrospective data access and navigation to prospective and 
+proactive information delivery. Commercial databases are growing 
+at unprecedented rates. A recent META Group survey of data 
+warehouse projects found that 19% of respondents are beyond the 
+50 gigabyte level, while 59% expect to be there by second quarter
+of 1996. In some industries, such as retail, these numbers can be
+much larger. The accompanying need for improved computational 
+engines can now be met in a cost-effective manner with parallel 
+multiprocessor computer technology. Data mining algorithms embody
+techniques that have existed for at least 10 years, but have only
+recently been implemented as mature, reliable, understandable 
+tools that consistently outperform older statistical methods.
+In the evolution from business data to business information, each
+new step has built upon the previous one. For example, dynamic 
+data access is critical for drill-through in data navigation 
+applications, and the ability to store large databases is 
+critical to data mining. From the user’s point of view, the four
+steps listed in Table 1 were revolutionary because they allowed 
+new business questions to be answered accurately and quickly.The 
+core components of data mining technology have been under 
+development for decades, in research areas such as statistics, 
+artificial intelligence, and machine learning. Today, the maturity
+of these techniques, coupled with high-performance relational 
+database engines and broad data integration efforts, make these 
+technologies practical for current data warehouse environments. 
+Data mining derives its name from the similarities between 
+searching for valuable business information in a large database 
+for example, finding linked products in gigabytes of store scanner
+data and mining a mountain for a vein of valuable ore. Both 
+processes require either sifting through an immense amount of 
+material, or intelligently probing it to find exactly where the 
+value resides.  Automated prediction of trends and behaviors. 
+Data mining automates the process of finding predictive 
+information in large databases. Questions that traditionally 
+required extensive hands-on analysis can now be answered directly
+from the data quickly. A typical example of a predictive problem 
+is targeted marketing. Data mining uses data on past promotional 
+mailings to identify the targets most likely to maximize return 
+on investment in future mailings. Other predictive problems 
+include forecasting bankruptcy and other forms of default, and 
+identifying segments of a population likely to respond similarly 
+to given events. Data mining tools sweep through databases and 
+identify previously hidden patterns in one step. An example of 
+pattern discovery is the analysis of retail sales data to identify
+seemingly unrelated products that are often purchased together. 
+Other pattern discovery problems include detecting fraudulent 
+credit card transactions and identifying anomalous data that could
+represent data entry keying errors. Data mining techniques can 
+yield the benefits of automation on existing software and hardware
+platforms, and can be implemented on new systems as existing 
+platforms are upgraded and new products developed. When data 
+mining tools are implemented on high performance parallel computer System processing
+systems, they can analyze massive databases in minutes.
+Faster processing means that users can automatically experiment 
+with more models to understand complex data. High speed makes it 
+practical for users to analyze huge quantities of data. Larger 
+databases, in turn, yield improved predictions. Analysts must 
+often limit the number of variables they examine when doing 
+hands-on analysis due to time constraints. Yet variables that are 
+discarded because they seem unimportant may carry information 
+about unknown patterns. High performance data mining allows users 
+to explore the full depth of a database, without preselecting a 
+subset of variables. Larger samples yield lower estimation errors 
+and variance, and allow users to make inferences about small but 
+important segments of a population. 

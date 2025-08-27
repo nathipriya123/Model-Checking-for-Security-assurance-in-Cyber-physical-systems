@@ -1,0 +1,12 @@
+
+CREATE TABLE CloudStorage(
+	User id varchar(50) NULL,
+	File id varchar(50) NULL,
+	File Name varchar(50) NULL,
+	Data varchar(1000) NULL
+);
+CREATE TABLE UserDetail(
+	User id varchar(50) NULL,
+	File id varchar(50) NULL,
+	File Name varchar(50) NULL
+);
